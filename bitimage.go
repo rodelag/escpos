@@ -1,4 +1,3 @@
-// stolen and modified from https://github.com/mugli/png2escpos
 package escpos
 
 import (
